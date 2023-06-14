@@ -1,3 +1,5 @@
+"use strict" // helps to prevent from accidentally creating global variables
+
 const secondHand = document.querySelector('.second-hand')
 const minHand = document.querySelector('.min-hand')
 const hourHand = document.querySelector('.hour-hand')

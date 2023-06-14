@@ -4,3 +4,4 @@
 
 Day 1: June 12, 2023 - Drum Stick
 Day 2: June 13, 2023 - Clock
+Day 2: June 14, 2023 - Blur, Change Spacing and Color
