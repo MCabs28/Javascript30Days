@@ -9,3 +9,4 @@ Day 4-5: June 17, 2023 - Cardio 1 Array and Flex Panels
 Day 6: June 18, 2023 - Ajax Type
 Day 7: June 22, 2023 - Cardio 2 Array
 Day 8: June 28, 2023 - HTML Canvas
+Day 9: June 28, 2023 - 14 Must Know Dev Tools
