@@ -10,3 +10,4 @@ Day 6: June 18, 2023 - Ajax Type
 Day 7: June 22, 2023 - Cardio 2 Array
 Day 8: June 28, 2023 - HTML Canvas
 Day 9: June 28, 2023 - 14 Must Know Dev Tools
+Day 10: June 29, 2023 - Hold Shift to Check Multiple Checkboxes
