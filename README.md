@@ -13,3 +13,4 @@ Day 9: June 28, 2023 - 14 Must Know Dev Tools
 Day 10: June 29, 2023 - Hold Shift to Check Multiple Checkboxes
 Day 11: Custom HTML5 Video Player
 Day 12: Konami Code
+Day 13: Slide Scroll
